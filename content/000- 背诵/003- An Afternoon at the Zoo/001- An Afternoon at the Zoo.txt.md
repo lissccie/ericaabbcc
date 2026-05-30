@@ -1,0 +1,12 @@
+
+
+
+
+
+The zoo had always been one of my favourite places. It had been two years since I last visited it so when my parents suggested going there one Sunday afternoon, I agreed enthusiastically. As I stared at the new wooden sign welcoming visitors to the zoo, excitement was already building up within me. I knew that there would definitely be some major changes made there.
+
+Even before we lined up to buy the tickets, my parents and I took a picture near a waterfall at the entrance. I entered the zoo, expecting to see the tram waiting by the side. Instead, I was surprised to find a miniature forest. The monkey enclosure brought back memories of the time my classmates and I posed like monkeys along the bridge. I looked down and gasped in surprise to see the gaping mouth of a crocodile staring up at me. After taking a few pictures, I left the enclosure only to find myself stepping on gravel. Around me were nothing but trees and light brown rocks which made me feel as though I was walking in another world.
+
+Just when I thought that walking through the zoo was like walking through a forest in Africa, I saw the polar bear. There was only one swimming about in the clear blue water. It was hard to spot it at first as it was hiding between two huge rocks. My face was pressed against the glass as I searched for it when it swam right up to me, causing me to jump back in fright. My parents laughed at my stunned face. My father, who had the camera in his hands, hurriedly snapped a picture of my surprised face. I did not mind looking at the common animals like the tigers, lions, giraffes and zebras. I was never tired of watching them eat and move about in their enclosures. However, I did not go for the animal show as I was more interested in walking through the rain forest that had been magically created in the middle of the zoo. The place had been transformed into one that was alive with insects and animals that were all within my reach. However, my parents told me not to touch them as I might startle them.
+
+The zoo had been improved and there were so many interesting things to see and do that I did not insist on taking the tram like I usually did in the past. We spent the entire afternoon there but I still did not get to see everything that I wanted to. My parents promised to take me there again the following week.
