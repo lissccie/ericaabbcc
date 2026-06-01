@@ -4,7 +4,7 @@
 
 // 优化 Quartz 网页端文章正文和列表的排版样式
 body, .article, article, p, li {
-    font-size: 20px !important;       // 保持你喜欢的舒适大字号
+    font-size: 16px !important;       // 保持你喜欢的舒适大字号
     line-height: 1.65 !important;     // 保持良好的行间距
     font-weight: 450 !important;      // 稍微加粗字重（默认通常是400），让字母更饱满、不细长
     letter-spacing: 0.01em !important;// 微调字间距，让英文排版更舒展
