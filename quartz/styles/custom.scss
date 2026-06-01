@@ -2,13 +2,38 @@
 
 // put your custom CSS here!
 
-// 优化 Quartz 网页端文章正文和列表的排版样式
+// ==========================================
+// 区域 1：左侧文件列表（Explorer 导航树）
+// ==========================================
+.sidebar, .explorer, .folder-container, .file-link {
+    font-size: 12px !important;       // 左侧目录树字号（建议比正文略小，排版更好看）
+    line-height: 1.5 !important;
+}
+
+// ==========================================
+// 区域 2：文章大标题（Title）
+// ==========================================
+h1.title, .article-title {
+    font-size: 18px !important;       // 大标题字号（调大后更醒目）
+    font-weight: 700 !important;      // 加粗，让标题更有分量
+}
+
+// ==========================================
+// 区域 3：顶部面包屑导航（Breadcrumbs）
+// ==========================================
+.breadcrumbs, .breadcrumb-item, .breadcrumb-nav {
+    font-size: 14px !important;       // 路径导航字号（建议小一点，起到辅助导航作用即可）
+    font-weight: 400 !important;
+}
+
+// ==========================================
+// 区域 4：文章正文及列表（Content）
+// ==========================================
 body, .article, article, p, li {
-    font-size: 16px !important;       // 保持你喜欢的舒适大字号
-    line-height: 1.65 !important;     // 保持良好的行间距
-    font-weight: 450 !important;      // 稍微加粗字重（默认通常是400），让字母更饱满、不细长
-    letter-spacing: 0.01em !important;// 微调字间距，让英文排版更舒展
+    font-size: 16px !important;       // 保持你之前满意的饱满大字号
+    line-height: 1.65 !important;     // 舒适的行高
+    font-weight: 450 !important;      // 字重微调，确保字母圆润不细长
     
-    // 更换为更稳重、好看的系统字体组合（优先使用苹果和微软的优质现代无衬线字体）
+    // 统一优质的现代系统字体家族
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
 }
