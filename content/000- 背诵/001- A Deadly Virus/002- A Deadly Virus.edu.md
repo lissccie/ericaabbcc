@@ -55,7 +55,7 @@
 
 
 
-**![[59419142.png]]"Ah ... choo!" went Glenda for the fourth time. 分析一下预防，went为什么在这里**
+**![[Attachments/59419142.png]]"Ah ... choo!" went Glenda for the fourth time. 分析一下预防，went为什么在这里**
 
 
 哈哈，这是一个非常细腻且敏锐的语法发现！很多同学在读到这句话时都会顺过去，但你能注意到这个 `went`，说明你的语感非常棒。
